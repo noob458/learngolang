@@ -1,2 +1,2 @@
 # learngolang
-![image](https://github.com/user-attachments/assets/52728dba-9934-4a4d-9b5c-aab2e000ec9e)
+![image](https://github.com/user-attachments/assets/ca597a8b-5299-4037-a232-2369b33a38ca)
